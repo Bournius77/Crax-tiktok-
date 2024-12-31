@@ -1,0 +1,7 @@
+echo "# Crax-tiktok-" >> README.md 
+git init 
+git add README.md 
+git commit -m "komit pertama" 
+git branch -M main 
+git remote add origin https://github.com/Bournius77/Crax-tiktok-.git
+ git push -u origin main
